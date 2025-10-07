@@ -55,13 +55,14 @@ public class OzgecmisOlusturucu {
 
             // DENEYİM
             document.add(new Paragraph("Deneyim:"));
-            document.add(new Paragraph("ABC Teknoloji - Kidemli Yazilim Gelistirici"));
-            document.add(new Paragraph("2029 - Devam ediyor"));
+            document.add(new Paragraph("A Teknoloji - Kidemli Yazilim Gelistirici"));
+            document.add(new Paragraph("B şirketi siber güvenlik uzmanı 2022-2023"));
+            document.add(new Paragraph("Metro istanbul - yazilim test uzmani 2023- devam ediyor"));
 
             document.add(new Paragraph(" "));
 
             // YETENEKLER
-            document.add(new Paragraph("Yetenkler:"));
+            document.add(new Paragraph("Yetenekler:"));
             document.add(new Paragraph("Java, Spring Boot, MySQL, Docker"));
 
             document.close();
